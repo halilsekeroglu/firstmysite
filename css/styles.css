@@ -1,0 +1,196 @@
+
+body {
+  margin:0;
+  text-align:center;
+  font-family:'Merriweather' , serif ;
+  color: #40514E ;
+
+}
+
+h1 {
+  color: #00bdaa ;
+  font-family: 'Clicker Script', cursive;
+  font-size:5.625rem ;
+  margin:50px auto 0 auto ;
+
+
+}
+
+h2 {
+   color:#00bdaa ;
+   font-family: 'Indie Flower', cursive;
+   font-weight: normal ;
+   padding-top:10px ;
+   font-size:1.6rem;
+
+
+}
+
+h3 {
+ color :#11999E ;
+ font-family: 'Montserrat', sans-serif;
+ padding-top:0;
+
+}
+
+.top-container {
+width:100% ;
+background-color: #e4f9f5 ;
+position: relative;
+padding-top:100px ;
+
+}
+
+.middle-container {
+ margin:10px 0 ;
+ line-height:2;
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+  left:250px;
+  bottom:300px ;
+
+  }
+
+.bottom-container {
+  background-color: #66bfbf ;
+  padding:50px 0 20px;
+  line-height: 2;
+}
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:40px ;
+
+}
+
+.footer-link {
+  color:#11999E ;
+}
+
+.skill-row {
+ width:50%;
+ margin:100px auto 100px auto;
+ text-align:left ;
+ line-height:2 ;
+}
+.chillie-image {
+  width:25% ;
+  float:left ;
+  margin-right:1.875rem ;
+}
+.computer-image {
+  width:25% ;
+  float:right ;
+  margin-left:1.875rem ;
+
+}
+
+.hello{
+  width:50% ;
+  margin:1px auto 100px auto ;
+}
+.profile-image {
+  width:25% ;
+}
+
+.intro {
+  width:80%;
+  margin: auto ;
+  line-height:2;
+}
+p {
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 300;
+}
+
+.article-header {
+    color: #1e836c;
+    text-align: center;
+    font-size: 2rem;
+    font-weight:400;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+hr {
+  border:dotted #E4F9F5 6px;
+  border-bottom: none ;
+  width:4%;
+  margin:100px auto ;
+
+}
+
+.contact-message {
+  width:50%;
+  margin:40px auto 60px ;
+}
+
+
+
+
+
+.btn {
+	-moz-box-shadow: -4px 13px 14px -7px #578c94;
+	-webkit-box-shadow: -4px 13px 14px -7px #578c94;
+	box-shadow: -4px 13px 14px -7px #578c94;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #48b6c7) );
+	background:-moz-linear-gradient( center top, #599bb3 5%, #48b6c7 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#48b6c7');
+	background-color:#599bb3;
+	-webkit-border-top-left-radius:14px;
+	-moz-border-radius-topleft:14px;
+	border-top-left-radius:14px;
+	-webkit-border-top-right-radius:14px;
+	-moz-border-radius-topright:14px;
+	border-top-right-radius:14px;
+	-webkit-border-bottom-right-radius:14px;
+	-moz-border-radius-bottomright:14px;
+	border-bottom-right-radius:14px;
+	-webkit-border-bottom-left-radius:14px;
+	-moz-border-radius-bottomleft:14px;
+	border-bottom-left-radius:14px;
+text-indent:0;
+	border:1px solid #599bb3;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Patrick Hand SC', cursive;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+height:46px;
+	line-height:46px;
+width:130px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 0px #3d768a;
+  margin-bottom:46px ;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #48b6c7), color-stop(1, #599bb3) );
+	background:-moz-linear-gradient( center top, #48b6c7 5%, #599bb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#48b6c7', endColorstr='#599bb3');
+	background-color:#48b6c7;
+}.btn:active {
+	position:relative;
+
+}
+a {
+  color:#11999e ;
+  margin:10px 20px ;
+  text-decoration:none ;
+}
+
+a:hover {
+  color:#EAF6F6 ;
+}
+.sign-halil {
+  text-decoration:underline;
+}
+
+.copyright {
+  color:#EAF6F6 ;
+  font-size:0.75rem;
+}
